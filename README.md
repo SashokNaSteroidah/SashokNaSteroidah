@@ -1,12 +1,11 @@
 <h1 align="center">
 Hi, I'm Nikita Pavlushin!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
- <img src="https://i.pinimg.com/564x/9b/48/d2/9b48d2bfb99846347b0e096218fd5764.jpg" alt="Profile views" align='right'/>
+ <!--<img src="https://i.pinimg.com/564x/9b/48/d2/9b48d2bfb99846347b0e096218fd5764.jpg" align='right' alt="vishalmaurya" />-->
 <br/>
 
 
-<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<img align="left" src="https://i.pinimg.com/564x/9b/48/d2/9b48d2bfb99846347b0e096218fd5764.jpg" width="320" />
 <hr>
 
 ```
