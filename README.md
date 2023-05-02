@@ -7,6 +7,7 @@ Hi, I'm Nikita Pavlushin!
 
 
 <img align="left" src="https://i.pinimg.com/564x/9b/48/d2/9b48d2bfb99846347b0e096218fd5764.jpg" alt="i found this art on pinterest author: https://ru.pinterest.com/maxatadze09/" width="320" />
+<br>
 <hr>
 
 ```
@@ -17,9 +18,10 @@ SashokNaSteroidah@github
 🎵 Love metal, lofi, jazz and soft music
 ```
 
-<br>
+
 
 <hr>
+<br>
 <br>
 <br>
 <br>
