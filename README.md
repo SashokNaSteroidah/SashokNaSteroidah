@@ -1,8 +1,8 @@
 <h1 align="center">
-Hi, I'm Nikita Pavlushine!
+Hi, I'm Nikita Pavlushin!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
- <img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/> <a href="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/"> </a> 
+ <img src="https://i.pinimg.com/564x/9b/48/d2/9b48d2bfb99846347b0e096218fd5764.jpg" alt="Profile views" align='right'/>
 <br/>
 
 
